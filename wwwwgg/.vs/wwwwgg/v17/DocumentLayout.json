@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "wwwwgg\\Program.cs",
               "ToolTip": "C:\\Users\\km\\Desktop\\asp.net\\wwwwgg\\wwwwgg\\Program.cs",
               "RelativeToolTip": "wwwwgg\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T06:53:17.424Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "wwwwgg\\Views\\Hope\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T06:52:43.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T06:52:43.685Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "wwwwgg\\Controllers\\HopeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T06:52:21.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T06:52:21.821Z"
             }
           ]
         }
