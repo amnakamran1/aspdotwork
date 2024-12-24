@@ -229,3 +229,4 @@ C:\Users\km\Desktop\asp.net\webpages\webpages\obj\Debug\net8.0\refint\webpages.d
 C:\Users\km\Desktop\asp.net\webpages\webpages\obj\Debug\net8.0\webpages.pdb
 C:\Users\km\Desktop\asp.net\webpages\webpages\obj\Debug\net8.0\webpages.genruntimeconfig.cache
 C:\Users\km\Desktop\asp.net\webpages\webpages\obj\Debug\net8.0\ref\webpages.dll
+C:\Users\km\Desktop\asp.net\webpages\webpages\obj\Debug\net8.0\webpages.sourcelink.json

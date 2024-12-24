@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\",
+  "WorkspaceRootPath": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\controllers\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\onedrive\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\controllers\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|solutionrelative:viewbag-viewdata\\controllers\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\views\\view\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|solutionrelative:viewbag-viewdata\\views\\view\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\onedrive\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\views\\view\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|solutionrelative:viewbag-viewdata\\views\\view\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\onedrive\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\views\\view\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|solutionrelative:viewbag-viewdata\\views\\view\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\onedrive\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|solutionrelative:viewbag-viewdata\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\onedrive\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\views\\view\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|solutionrelative:viewbag-viewdata\\views\\view\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|c:\\users\\km\\onedrive\\desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF92004-AB2A-4E3E-8696-B7612A1D9516}|viewbag-viewdata\\viewbag-viewdata.csproj|solutionrelative:viewbag-viewdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,56 +34,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\Contact.cshtml",
+              "RelativeDocumentMoniker": "viewbag-viewdata\\Views\\View\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\Contact.cshtml",
+              "RelativeToolTip": "viewbag-viewdata\\Views\\View\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T05:41:54.054Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "viewbag-viewdata\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Models\\Student.cs",
-              "RelativeToolTip": "viewbag-viewdata\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T04:44:06.685Z",
-              "EditorCaption": ""
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\About.cshtml",
+              "RelativeDocumentMoniker": "viewbag-viewdata\\Views\\View\\About.cshtml",
+              "ToolTip": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\About.cshtml",
+              "RelativeToolTip": "viewbag-viewdata\\Views\\View\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T05:41:14.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Program.cs",
-              "RelativeDocumentMoniker": "viewbag-viewdata\\Program.cs",
-              "ToolTip": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Program.cs",
-              "RelativeToolTip": "viewbag-viewdata\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwB4AAAA1AAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "viewbag-viewdata\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Models\\Student.cs",
+              "RelativeToolTip": "viewbag-viewdata\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T04:09:19.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T04:44:06.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Program.cs",
+              "RelativeDocumentMoniker": "viewbag-viewdata\\Program.cs",
+              "ToolTip": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Program.cs",
+              "RelativeToolTip": "viewbag-viewdata\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:09:19.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "view.cshtml",
-              "DocumentMoniker": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\view.cshtml",
+              "DocumentMoniker": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\view.cshtml",
               "RelativeDocumentMoniker": "viewbag-viewdata\\Views\\View\\view.cshtml",
-              "ToolTip": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\view.cshtml",
+              "ToolTip": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Views\\View\\view.cshtml",
               "RelativeToolTip": "viewbag-viewdata\\Views\\View\\view.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T04:05:32.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T04:05:32.4Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "viewController.cs",
-              "DocumentMoniker": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Controllers\\viewController.cs",
+              "DocumentMoniker": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Controllers\\viewController.cs",
               "RelativeDocumentMoniker": "viewbag-viewdata\\Controllers\\viewController.cs",
-              "ToolTip": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Controllers\\viewController.cs",
+              "ToolTip": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\Controllers\\viewController.cs",
               "RelativeToolTip": "viewbag-viewdata\\Controllers\\viewController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T04:04:41.669Z",
               "EditorCaption": ""

@@ -5,7 +5,7 @@ namespace viewbag_viewdata
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+           
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
@@ -21,7 +21,7 @@ namespace viewbag_viewdata
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+       
             app.UseRouting();
 
             app.UseAuthorization();

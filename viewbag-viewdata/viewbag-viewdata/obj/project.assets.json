@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\viewbag-viewdata.csproj",
+      "projectUniqueName": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\viewbag-viewdata.csproj",
       "projectName": "viewbag-viewdata",
-      "projectPath": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\viewbag-viewdata.csproj",
+      "projectPath": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\viewbag-viewdata.csproj",
       "packagesPath": "C:\\Users\\km\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\km\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\obj\\",
+      "outputPath": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\viewbag-viewdata\\viewbag-viewdata\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

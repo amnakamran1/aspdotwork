@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj": {}
+    "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj": {
+    "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj",
+        "projectUniqueName": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj",
         "projectName": "webpages",
-        "projectPath": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj",
+        "projectPath": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\webpages\\webpages\\webpages.csproj",
         "packagesPath": "C:\\Users\\km\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\obj\\",
+        "outputPath": "C:\\Users\\km\\OneDrive\\Desktop\\asp.net\\webpages\\webpages\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

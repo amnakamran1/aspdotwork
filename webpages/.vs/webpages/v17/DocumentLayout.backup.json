@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|c:\\users\\km\\desktop\\asp.net\\webpages\\webpages\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|solutionrelative:webpages\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|c:\\users\\km\\desktop\\asp.net\\webpages\\webpages\\views\\web\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|solutionrelative:webpages\\views\\web\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|c:\\users\\km\\desktop\\asp.net\\webpages\\webpages\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|solutionrelative:webpages\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|c:\\users\\km\\desktop\\asp.net\\webpages\\webpages\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|solutionrelative:webpages\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A19E080-8206-4932-9840-23FBC5DA5460}|webpages\\webpages.csproj|c:\\users\\km\\desktop\\asp.net\\webpages\\webpages\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "webpages\\wwwroot\\css\\site.css",
@@ -51,8 +51,7 @@
               "ViewState": "AgIAADIBAAAAAAAAAAAAAEABAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-13T09:42:18.85Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "webpages\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-14T05:45:13.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:45:13.176Z"
             },
             {
               "$type": "Document",
@@ -77,31 +75,30 @@
               "RelativeToolTip": "webpages\\Views\\Web\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T05:32:47.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:32:47.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "webpages\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "webpages\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCQAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-14T05:16:22.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "gallery.cshtml",
               "DocumentMoniker": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\Views\\Web\\gallery.cshtml",
               "RelativeDocumentMoniker": "webpages\\Views\\Web\\gallery.cshtml",
               "ToolTip": "C:\\Users\\km\\Desktop\\asp.net\\webpages\\webpages\\Views\\Web\\gallery.cshtml",
               "RelativeToolTip": "webpages\\Views\\Web\\gallery.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADYAAACUAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADYAAACUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-13T05:17:10.144Z",
               "EditorCaption": ""
@@ -116,8 +113,7 @@
               "RelativeToolTip": "webpages\\wwwroot\\style2.css",
               "ViewState": "AgIAAIAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-13T10:29:33.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T10:29:33.967Z"
             },
             {
               "$type": "Document",
